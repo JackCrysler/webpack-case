@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js add webpack babel-core babel-preset-env babel-preset-react babel-preset-stage-2 babel-loader --dev
+
+PATH: 
+  C:\Users\lenovo\AppData\Roaming\npm;C:\Program Files\nodejs\;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\SVN\bin;C:\Program Files\nodejs\;C:\Ruby23-x64\bin;C:\Users\lenovo\AppData\Local\Microsoft\WindowsApps;D:\android-sdk_r24.4.1-windows\android-sdk-windows\platform-tools;D:\android-sdk_r24.4.1-windows\android-sdk-windows\tools;D:\JDK\bin;C:\Users\lenovo\AppData\Roaming\npm;D:\Microsoft VS Code\bin
+
+Yarn version: 
+  0.27.5
+
+Node version: 
+  6.11.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "case-webpack",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: ENOENT: no such file or directory, lstat 'D:\wamp\www\1505B\case-webpack\node_modules\acorn'
+      at Error (native)
